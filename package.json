@@ -1,0 +1,24 @@
+{
+  "name": "api-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maziksa/api-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Maziksa/api-tests/issues"
+  },
+  "homepage": "https://github.com/Maziksa/api-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "1.53.0"
+  }
+}
